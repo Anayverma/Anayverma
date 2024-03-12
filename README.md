@@ -17,7 +17,7 @@
 
 <!--Intro start-->
 
-- 🔭 I’m currently working on **Solidity , Ethereum , Next , React, , Nodejs, MongoDB , Java**
+- 🔭 I’m currently working on **Solidity , Ethereum , Next , React, Nodejs, MongoDB , Java**
 
 - 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
 
