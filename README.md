@@ -79,6 +79,8 @@
 <!--horizontal divider(gradiant)--> 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
@@ -93,11 +95,13 @@
 <!-- Hacktoberfest -->
 <div align="center">
   <h3>🌸 Hacktoberfest 2024</h3>
-  <img src="https://assets.holopin.io/hf2024levels/level0-sloth-code-0-0-0-0.webp" alt="Hacktoberfest Badge 1" width="200" height="200"/>
-  <img src="https://assets.holopin.io/hf2024levels/level0-sloth-code-0-0-0-0.webp" alt="Hacktoberfest Badge 2" width="200" height="200"/>
-  <img src="https://assets.holopin.io/hf2024levels/level0-sloth-code-0-0-0-0.webp" alt="Hacktoberfest Badge 3" width="200" height="200"/>
-  <img src="https://assets.holopin.io/hf2024levels/level0-sloth-code-0-0-0-0.webp" alt="Hacktoberfest Badge 4" width="200" height="200"/>
-  <img src="https://assets.holopin.io/hf2024levels/level0-sloth-code-0-0-0-0.webp" alt="Hacktoberfest Badge 5" width="200" height="200"/>
+  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; padding: 10px;">
+    <img src="https://assets.holopin.io/hf2024levels/level0-sloth-code-0-0-0-0.webp" alt="Hacktoberfest Badge 1" width="200" height="200"/>
+    <img src="https://assets.holopin.io/hf2024levels/level0-sloth-code-0-0-0-0.webp" alt="Hacktoberfest Badge 2" width="200" height="200"/>
+    <img src="https://assets.holopin.io/hf2024levels/level0-sloth-code-0-0-0-0.webp" alt="Hacktoberfest Badge 3" width="200" height="200"/>
+    <img src="https://assets.holopin.io/hf2024levels/level0-sloth-code-0-0-0-0.webp" alt="Hacktoberfest Badge 4" width="200" height="200"/>
+    <img src="https://assets.holopin.io/hf2024levels/level0-sloth-code-0-0-0-0.webp" alt="Hacktoberfest Badge 5" width="200" height="200"/>
+  </div>
 </div>
 
 <br>
@@ -105,7 +109,9 @@
 <!-- AWS -->
 <div align="center">
   <h3>☁️ AWS</h3>
-  <img src="https://img.shields.io/badge/AWS-CloudPractitioner-orange?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Badge" />
+  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px; padding: 10px;">
+    <img src="https://img.shields.io/badge/AWS-CloudPractitioner-orange?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Badge" />
+  </div>
 </div>
 
 <br>
@@ -113,7 +119,9 @@
 <!-- Google Cloud -->
 <div align="center">
   <h3>☁️ Google Cloud</h3>
-  <img src="https://img.shields.io/badge/GCP-StudentCloudChampion-blue?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud Badge" />
+  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px; padding: 10px;">
+    <img src="https://img.shields.io/badge/GCP-StudentCloudChampion-blue?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud Badge" />
+  </div>
 </div>
 
 <br>
@@ -121,7 +129,9 @@
 <!-- LeetCode -->
 <div align="center">
   <h3>💡 LeetCode</h3>
-  <img src="https://img.shields.io/badge/LeetCode-Top%20Performer-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Badge" />
+  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px; padding: 10px;">
+    <img src="https://img.shields.io/badge/LeetCode-Top%20Performer-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Badge" />
+  </div>
 </div>
 
 <br>
@@ -129,8 +139,10 @@
 <!-- GitHub -->
 <div align="center">
   <h3>🐙 GitHub</h3>
-  <img src="https://img.shields.io/badge/GitHub-OpenSourceContributor-blueviolet?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
-  <img src="https://img.shields.io/badge/GitHub-Star%20Gazer-yellow?style=for-the-badge&logo=github&logoColor=black" alt="GitHub Star Badge" />
+  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px; padding: 10px;">
+    <img src="https://img.shields.io/badge/GitHub-OpenSourceContributor-blueviolet?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
+    <img src="https://img.shields.io/badge/GitHub-Star%20Gazer-yellow?style=for-the-badge&logo=github&logoColor=black" alt="GitHub Star Badge" />
+  </div>
 </div>
 
 </p>
