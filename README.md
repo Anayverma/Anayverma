@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/15a70db2-be80-4911-8021-ad6cf7c3b06a)<!--horizontal divider(gradiant)-->
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--h1 without bottom border-->
@@ -152,8 +152,8 @@
 <div align="center">
   <h3>🐙 GitHub</h3>
   <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px; padding: 10px;">
-    <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" alt="GitHub Badge" />
-    <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" alt="GitHub Star Badge" />
+    <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" alt="GitHub Badge" width="200" height="200" />
+    <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" alt="GitHub Star Badge" width="200" height="200" />
   </div>
 </div>
 
