@@ -77,7 +77,67 @@
 </p>
 
 <!--horizontal divider(gradiant)--> 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> <!--h1 without bottom border--> <div id="user-content-toc"> <ul align="center"> <summary><h2 style="display: inline-block">🏅 Badges That Define Me</h2></summary> </ul> </div> <!--badges section--> <p align="center"> <img src="https://assets.holopin.io/hf2024levels/level0-sloth-code-0-0-0-0.webp" alt="Java Badge" width="200" height="200"/>  &nbsp; <img src="https://img.shields.io/badge/Next.js-Pro-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js Badge" /> Next.js &nbsp; <img src="https://img.shields.io/badge/Solidity-Intermediate-blueviolet?style=for-the-badge&logo=ethereum&logoColor=white" alt="Solidity Badge" /> Solidity &nbsp; <img src="https://img.shields.io/badge/React-Developer-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Badge" /> React &nbsp; <img src="https://img.shields.io/badge/Node.js-Backend-green?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js Badge" /> Node.js &nbsp; <img src="https://img.shields.io/badge/MongoDB-NoSQL-darkgreen?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Badge" /> MongoDB &nbsp; <img src="https://img.shields.io/badge/Web3-Enthusiast-orange?style=for-the-badge&logo=web3.js&logoColor=white" alt="Web3 Badge" /> Web3 &nbsp; </p> <!--horizontal divider(gradiant)--> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">🏅 Badges That Define Me</h2></summary>
+  </ul>
+</div>
+
+<!--badges section-->
+<p align="center">
+
+<!-- Hacktoberfest -->
+<div align="center">
+  <h3>🌸 Hacktoberfest 2024</h3>
+  <img src="https://assets.holopin.io/hf2024levels/level0-sloth-code-0-0-0-0.webp" alt="Hacktoberfest Badge 1" width="200" height="200"/>
+  <img src="https://assets.holopin.io/hf2024levels/level0-sloth-code-0-0-0-0.webp" alt="Hacktoberfest Badge 2" width="200" height="200"/>
+  <img src="https://assets.holopin.io/hf2024levels/level0-sloth-code-0-0-0-0.webp" alt="Hacktoberfest Badge 3" width="200" height="200"/>
+  <img src="https://assets.holopin.io/hf2024levels/level0-sloth-code-0-0-0-0.webp" alt="Hacktoberfest Badge 4" width="200" height="200"/>
+  <img src="https://assets.holopin.io/hf2024levels/level0-sloth-code-0-0-0-0.webp" alt="Hacktoberfest Badge 5" width="200" height="200"/>
+</div>
+
+<br>
+
+<!-- AWS -->
+<div align="center">
+  <h3>☁️ AWS</h3>
+  <img src="https://img.shields.io/badge/AWS-CloudPractitioner-orange?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Badge" />
+</div>
+
+<br>
+
+<!-- Google Cloud -->
+<div align="center">
+  <h3>☁️ Google Cloud</h3>
+  <img src="https://img.shields.io/badge/GCP-StudentCloudChampion-blue?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud Badge" />
+</div>
+
+<br>
+
+<!-- LeetCode -->
+<div align="center">
+  <h3>💡 LeetCode</h3>
+  <img src="https://img.shields.io/badge/LeetCode-Top%20Performer-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Badge" />
+</div>
+
+<br>
+
+<!-- GitHub -->
+<div align="center">
+  <h3>🐙 GitHub</h3>
+  <img src="https://img.shields.io/badge/GitHub-OpenSourceContributor-blueviolet?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
+  <img src="https://img.shields.io/badge/GitHub-Star%20Gazer-yellow?style=for-the-badge&logo=github&logoColor=black" alt="GitHub Star Badge" />
+</div>
+
+</p>
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 
 
