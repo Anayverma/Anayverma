@@ -94,13 +94,13 @@
 
 <!-- Hacktoberfest -->
 <div align="center">
-  <h3>🌸 Hacktoberfest 2024</h3>
-  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; padding: 10px;">
+  <h3> Hacktoberfest 2024</h3>
+  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 30px; padding: 20px;">
     <img src="https://assets.holopin.io/hf2024levels/level0-sloth-code-0-0-0-0.webp" alt="Hacktoberfest Badge 1" width="200" height="200"/>
-    <img src="https://assets.holopin.io/hf2024levels/level0-sloth-code-0-0-0-0.webp" alt="Hacktoberfest Badge 2" width="200" height="200"/>
-    <img src="https://assets.holopin.io/hf2024levels/level0-sloth-code-0-0-0-0.webp" alt="Hacktoberfest Badge 3" width="200" height="200"/>
-    <img src="https://assets.holopin.io/hf2024levels/level0-sloth-code-0-0-0-0.webp" alt="Hacktoberfest Badge 4" width="200" height="200"/>
-    <img src="https://assets.holopin.io/hf2024levels/level0-sloth-code-0-0-0-0.webp" alt="Hacktoberfest Badge 5" width="200" height="200"/>
+    <img src="https://assets.holopin.io/hf2024levels/level1-sloth-code-0-0-0-0.webp" alt="Hacktoberfest Badge 2" width="200" height="200"/>
+    <img src="https://assets.holopin.io/hf2024levels/level2-sloth-code-0-0-0-0.webp" alt="Hacktoberfest Badge 3" width="200" height="200"/>
+    <img src="https://assets.holopin.io/hf2024levels/level3-sloth-code-0-0-0-0.webp" alt="Hacktoberfest Badge 4" width="200" height="200"/>
+    <img src="https://assets.holopin.io/hf2024levels/level4-sloth-code-0-0-0-0.webp" alt="Hacktoberfest Badge 5" width="200" height="200"/>
   </div>
 </div>
 
