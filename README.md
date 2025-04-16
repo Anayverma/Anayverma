@@ -80,7 +80,7 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
@@ -110,12 +110,12 @@
 <div align="center">
   <h3>☁️ AWS</h3>
   <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px; padding: 10px;">
-    <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Badge" />
-    <img src="https://images.credly.com/images/8d67bbf4-128b-4141-b5f1-1bc61bbfbaa6/image.png" alt="AWS Badge" />
-    <img src="https://images.credly.com/images/9358115e-ead7-47c2-91e2-165b6a650a1b/image.png" alt="AWS Badge" />
-    <img src="https://images.credly.com/images/5bf37709-4b69-4cdc-9edc-af7b3370d427/image.png" alt="AWS Badge" />
-    <img src="https://images.credly.com/images/01c3b0d4-a225-483b-a762-460473658c1a/image.png" alt="AWS Badge" />
-    <img src="https://images.credly.com/images/629a2bb9-14a6-47b3-b17e-f1056b1404d0/image.png" alt="AWS Badge" />
+    <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Badge" width="200" height="200" />
+    <img src="https://images.credly.com/images/8d67bbf4-128b-4141-b5f1-1bc61bbfbaa6/image.png" alt="AWS Badge" width="200" height="200"/>
+    <img src="https://images.credly.com/images/9358115e-ead7-47c2-91e2-165b6a650a1b/image.png" alt="AWS Badge" width="200" height="200"/>
+    <img src="https://images.credly.com/images/5bf37709-4b69-4cdc-9edc-af7b3370d427/image.png" alt="AWS Badge" width="200" height="200"/>
+    <img src="https://images.credly.com/images/01c3b0d4-a225-483b-a762-460473658c1a/image.png" alt="AWS Badge" width="200" height="200"/>
+    <img src="https://images.credly.com/images/629a2bb9-14a6-47b3-b17e-f1056b1404d0/image.png" alt="AWS Badge" width="200" height="200"/>
   </div>
 </div>
 
@@ -125,7 +125,7 @@
 <div align="center">
   <h3>☁️ Google Cloud</h3>
   <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px; padding: 10px;">
-    <img src="https://cdn.qwiklabs.com/8e%2BkAIqvOauBq2p2%2Fmu%2F0Als3nSv%2B9nl7VGC873FIkQ%3D" alt="Google Cloud Badge" />
+    <img src="https://cdn.qwiklabs.com/8e%2BkAIqvOauBq2p2%2Fmu%2F0Als3nSv%2B9nl7VGC873FIkQ%3D" alt="Google Cloud Badge" width="200" height="200"/>
   </div>
 </div>
 
@@ -135,14 +135,14 @@
 <div align="center">
   <h3>💡 LeetCode</h3>
   <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px; padding: 10px;">
-    <img src="https://assets.leetcode.com/static_assets/marketing/365_new.gif" alt="LeetCode Badge" />
-    <img src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="LeetCode Badge" />
-    <img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="LeetCode Badge" />
-    <img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" alt="LeetCode Badge" />
-    <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="LeetCode Badge" />
-    <img src="https://assets.leetcode.com/static_assets/marketing/2023-100.gif" alt="LeetCode Badge" />
-    <img src="https://assets.leetcode.com/static_assets/marketing/2023-50.gif" alt="LeetCode Badge" />
-    <img src="https://leetcode.com/static/images/badges/2024/gif/2024-11.gif" alt="LeetCode Badge" />
+    <img src="https://assets.leetcode.com/static_assets/marketing/365_new.gif" alt="LeetCode Badge" width="200" height="200"/>
+    <img src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="LeetCode Badge" width="200" height="200"/>
+    <img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="LeetCode Badge" width="200" height="200"/>
+    <img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" alt="LeetCode Badge" width="200" height="200"/>
+    <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="LeetCode Badge" width="200" height="200"/>
+    <img src="https://assets.leetcode.com/static_assets/marketing/2023-100.gif" alt="LeetCode Badge" width="200" height="200"/>
+    <img src="https://assets.leetcode.com/static_assets/marketing/2023-50.gif" alt="LeetCode Badge" width="200" height="200"/>
+    <img src="https://leetcode.com/static/images/badges/2024/gif/2024-11.gif" alt="LeetCode Badge" width="200" height="200"/>
   </div>
 </div>
 
