@@ -1,4 +1,4 @@
-<!--horizontal divider(gradiant)-->
+![image](https://github.com/user-attachments/assets/15a70db2-be80-4911-8021-ad6cf7c3b06a)<!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--h1 without bottom border-->
@@ -110,7 +110,12 @@
 <div align="center">
   <h3>☁️ AWS</h3>
   <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px; padding: 10px;">
-    <img src="https://img.shields.io/badge/AWS-CloudPractitioner-orange?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Badge" />
+    <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Badge" />
+    <img src="https://images.credly.com/images/8d67bbf4-128b-4141-b5f1-1bc61bbfbaa6/image.png" alt="AWS Badge" />
+    <img src="https://images.credly.com/images/9358115e-ead7-47c2-91e2-165b6a650a1b/image.png" alt="AWS Badge" />
+    <img src="https://images.credly.com/images/5bf37709-4b69-4cdc-9edc-af7b3370d427/image.png" alt="AWS Badge" />
+    <img src="https://images.credly.com/images/01c3b0d4-a225-483b-a762-460473658c1a/image.png" alt="AWS Badge" />
+    <img src="https://images.credly.com/images/629a2bb9-14a6-47b3-b17e-f1056b1404d0/image.png" alt="AWS Badge" />
   </div>
 </div>
 
@@ -120,7 +125,7 @@
 <div align="center">
   <h3>☁️ Google Cloud</h3>
   <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px; padding: 10px;">
-    <img src="https://img.shields.io/badge/GCP-StudentCloudChampion-blue?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud Badge" />
+    <img src="https://cdn.qwiklabs.com/8e%2BkAIqvOauBq2p2%2Fmu%2F0Als3nSv%2B9nl7VGC873FIkQ%3D" alt="Google Cloud Badge" />
   </div>
 </div>
 
@@ -130,7 +135,14 @@
 <div align="center">
   <h3>💡 LeetCode</h3>
   <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px; padding: 10px;">
-    <img src="https://img.shields.io/badge/LeetCode-Top%20Performer-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Badge" />
+    <img src="https://assets.leetcode.com/static_assets/marketing/365_new.gif" alt="LeetCode Badge" />
+    <img src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="LeetCode Badge" />
+    <img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="LeetCode Badge" />
+    <img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" alt="LeetCode Badge" />
+    <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="LeetCode Badge" />
+    <img src="https://assets.leetcode.com/static_assets/marketing/2023-100.gif" alt="LeetCode Badge" />
+    <img src="https://assets.leetcode.com/static_assets/marketing/2023-50.gif" alt="LeetCode Badge" />
+    <img src="https://leetcode.com/static/images/badges/2024/gif/2024-11.gif" alt="LeetCode Badge" />
   </div>
 </div>
 
@@ -140,8 +152,8 @@
 <div align="center">
   <h3>🐙 GitHub</h3>
   <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px; padding: 10px;">
-    <img src="https://img.shields.io/badge/GitHub-OpenSourceContributor-blueviolet?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
-    <img src="https://img.shields.io/badge/GitHub-Star%20Gazer-yellow?style=for-the-badge&logo=github&logoColor=black" alt="GitHub Star Badge" />
+    <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" alt="GitHub Badge" />
+    <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" alt="GitHub Star Badge" />
   </div>
 </div>
 
